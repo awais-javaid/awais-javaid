@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awais Javaid
 - 👀 I’m interested in Cricket
-- 🌱 I’m currently learning & Working in React JS | Vue JS | Magento 2
+- 🌱 I’m a Front End Developer, currently learning & Working in React JS | Vue JS | Magento 2, Figma
 
 <!---
 - 💞️ I’m looking to collaborate on ...
